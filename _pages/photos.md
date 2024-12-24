@@ -2,6 +2,9 @@
 permalink: /photos/
 title: "Photos"
 layouts_gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/thumbnails/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 4"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: /assets/images/thumbnails/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
@@ -13,5 +16,4 @@ layouts_gallery:
     alt: "placeholder image 1"
 ---
 
-Photos
 {% include gallery id="layouts_gallery" caption="" %}
