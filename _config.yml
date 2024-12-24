@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hi, I'm deltaract!"
+  name   : "hi, i'm deltaract!"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
