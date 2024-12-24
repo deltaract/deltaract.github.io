@@ -55,9 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hi, I'm ``deltaract``!"
+  name   : "Hi, I'm deltaract!"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Currently studying ``Data Science`` for my BS. This website is a collection of my thoughts and projects."
+  bio    : "Currently studying Data Science for my BS. This website is a collection of my thoughts and projects."
   location: "Chicago, IL"
   links:
     - label: "Bluesky"
