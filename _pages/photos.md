@@ -1,6 +1,6 @@
 ---
 permalink: /photos/
-title: "photos"
+title: "Photos"
 ---
 
 wip
