@@ -40,4 +40,4 @@ gallery:
     title: "Image 1 title caption"
 ---
 
-{% include gallery}
+{% include gallery %}
