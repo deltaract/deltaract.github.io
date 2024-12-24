@@ -1,6 +1,7 @@
 ---
 permalink: /photos/
 title: "Photos"
+layout: single
 gallery:
 - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: /assets/images/thumbnails/unsplash-gallery-image-3-th.jpg
@@ -40,4 +41,5 @@ gallery:
     title: "Image 1 title caption"
 ---
 
+test
 {% include gallery %}
