@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Deltaract"
-masthead_title: "Deltaract's Site"
-description: "Welcome to Deltaract's site. This site is a collection of my thoughts and projects. You can also follow me on my socials!"
+masthead_title: "Home"
+description: "Welcome to my website. This site is a collection of my thoughts and projects."
 minimal_mistakes_skin: dark
 search: true
 
